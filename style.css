@@ -1,0 +1,21 @@
+h1{color:palevioletred;
+    background-color:#d8d8ff;
+      font-size:70px;text-align:center}
+    h2{color:rgb(256,70,290);
+    background-color:hsl(0,42%,81%)%;
+    font-weight:bold;<text-decoration:light><pink><underline><wavy> 
+      text-transform:lowercase}
+    h3{background-color:hsl(185,67%,83%);
+    font-style: helvetica;
+    text-shadow:3px 1px 1px rgb(239,199,199);
+    line-height:1.35;
+    word-spacing:0.80em}
+    p{color:hsl(0, 23%, 66%);
+    font-variant:small-caps;}
+    ul{color:hsl(13,100%,58%,0.81);background-color:aquamarine;
+    letter-spacing:0.025em}
+    ol{color:beige(255, 255, 204);
+    background-color:hsl(312, 22%, 36%);
+      letter: spacing 0.2em;}
+    body{background-color:hsl(300, 69%, 90%)}
+    /* body{background-color:#a00d99} this is the hex code*/
